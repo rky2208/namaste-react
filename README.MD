@@ -1,7 +1,7 @@
 # ---------- NAMASTE-REACT: EP-01 SUMMARY ----------
-a.    Create a Hello World Header with HTML
-b. Create a Hello World Header with Javascript
-c. Create a Hello World Header with react
+1. Create a Hello World Header with HTML
+2. Create a Hello World Header with Javascript
+3. Create a Hello World Header with react
     -   Add CDN for that into index.html
         -   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
                 # A small JS utility file (Library) (Can be used for REACT-NATIVE, REACT-JS and OTHER JS Project)
