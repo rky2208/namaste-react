@@ -52,9 +52,9 @@
     It offers
         - developemnet server :
             - we can build and run our project on local server using :  
-                parcel index.html
+                npx parcel index.html
                     - by default it's build dev-build , if we want to build minified version(production-build ) and run
-                        parcel build index.html
+                        npx parcel build index.html
 
             - it will by default run on : http://localhost:1234/
             - we can also define port : parcel index.html --port <port-number>
