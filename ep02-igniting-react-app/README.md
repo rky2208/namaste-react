@@ -14,13 +14,13 @@ It's faster and product ready, we have to use react as well as other packages.
     Step 3: connect this App.js file with index.html using script tag in index.html
     Step 4: Now we want the React dependency/library so that we can use it in app.js to add it, let's create a package.json file
     By using npm or we can also create manually.
-        npm i : This command will create a package.json file with the usual default values.
+        npm init : This command will create a package.json file with the usual default values.
     Step 5: Install React and react-dom dependencies
         npm i react react-dom
     Step 6: Install Parcel Bundler so we can use it to run code on a local server and other benefits
      As stated in the definition.
     Step 7: Now  to run the code on the local server with the development build 
-            npm parcel index.html: Here index.html file is the entry file of the project
+            npx parcel index.html: Here index.html file is the entry file of the project
         Note: If you want to create and run the production build file locally we can run the command below
             npx parcel build index.html
 
