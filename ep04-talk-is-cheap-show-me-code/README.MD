@@ -17,12 +17,11 @@ Befor stat jumping into code it's always important to plan it better.
       - Search
       - Restaurant Container
        - Restaurant Card
-       - Dish Name
-       - Image
-       - Restaurant Name
-       - Rating
-       - Cuisines
-       - Time to Deliver
+         - Image
+         - Restaurant Name
+         - Rating
+         - Cuisines
+         - Time to Deliver
     Footer
     - Copyright
     - Links
